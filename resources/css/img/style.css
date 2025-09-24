@@ -1,0 +1,15 @@
+/* CONFIGURAÇÕES BÁSICAS */
+
+/* Zerando os espaçamentos para ter maior dominio sobre os elementos */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: #FFF;
+    color: #555;
+    font-family: 'Lato', 'Arial', sans-serif;
+}
