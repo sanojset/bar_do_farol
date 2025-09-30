@@ -22,7 +22,7 @@ html{
 
 header{
     background-image:
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5g)), 
         url(img/img-hero-header.jpg);
     background-size: cover;
     background-position: right;
