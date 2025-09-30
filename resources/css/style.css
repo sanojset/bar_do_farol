@@ -21,5 +21,10 @@ html{
 /****************** HERO HEADER *****************/
 
 header{
-    background-image: url(img/img-hero-header.jpg);
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+        url(img/img-hero-header.jpg);
+    background-size: cover;
+    background-position: right;
+    height: 100vh;
 }
