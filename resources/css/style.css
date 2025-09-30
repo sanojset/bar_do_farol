@@ -22,9 +22,17 @@ html{
 
 header{
     background-image:
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5g)), 
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
         url(img/img-hero-header.jpg);
     background-size: cover;
     background-position: right;
     height: 100vh;
+}
+
+h1{
+    color: #FFF;
+    font-size: 180%;
+    text-transform: uppercase;
+    word-spacing: 4px;
+    letter-spacing: 1;
 }
